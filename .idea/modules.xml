@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/irfanda_mobile_fe_ordo.iml" filepath="$PROJECT_DIR$/irfanda_mobile_fe_ordo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/irfanda_mobile_fe_ordo_android.iml" filepath="$PROJECT_DIR$/android/irfanda_mobile_fe_ordo_android.iml" />
+    </modules>
+  </component>
+</project>
